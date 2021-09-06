@@ -26,7 +26,7 @@ If you want to find out more, you can visit <a href="https://ozan.pl">🏠 My Pe
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white" />
 </p>
 
-## My Open source projects
+## My open source projects
 
 <table>
   <thead align="center">
