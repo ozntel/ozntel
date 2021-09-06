@@ -18,6 +18,8 @@ If you want to find out more, you can visit <a href="https://ozan.pl">🏠 My Pe
   <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" />
   <img alt="Django" src="https://img.shields.io/badge/django-%23092E20.svg?style=flat-square&logo=django&logoColor=white" />
   <img alt="Django Rest" src="https://img.shields.io/badge/DJANGO-REST-ff1709?style=flat-square&logo=django&logoColor=white&color=ff1709&labelColor=gray" />
+ 
+  <img alt="VBA" src="https://img.shields.io/badge/VBA-white" />
   
   <img alt="Markdown" src="https://img.shields.io/badge/markdown-%23000000.svg?style=flat-square&logo=markdown&logoColor=white" />
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
