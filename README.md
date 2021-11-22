@@ -6,7 +6,7 @@ You can visit <a href="https://ozan.pl">🏠 My Personal Page</a> if you want to
  
 ## Things I code with
 <p>
-  <img alt="Javascript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E" />
+  <img alt="Javascript" src="im/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="React Native" src="https://img.shields.io/badge/react_native-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAF" />
@@ -27,6 +27,7 @@ You can visit <a href="https://ozan.pl">🏠 My Personal Page</a> if you want to
   <img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=whitee" />
   <img alt="Firebase" src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat-square&logo=firebase" />
   <img alt="Apache" src="https://img.shields.io/badge/apache-%23D42029.svg?style=flat-square&logo=apache&logoColor=white" />
+  <img alt="Ionic" src="https://img.shields.io/badge/Ionic-3880FF.svg?style=flat-square&logo=ionic&logoColor=white" />
 </p>
 
 ## My open source projects
