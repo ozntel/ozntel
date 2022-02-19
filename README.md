@@ -1,6 +1,6 @@
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi, I'm Ozan 
 
-### Total Rewards Analyst and Passionate Programmer building Websites, Plugins and Various Automatization Scripts. </br>
+### HRIS Manager and Passionate Programmer building Websites, Plugins and Various Automatization Scripts. </br>
  
 You can visit <a href="https://ozan.pl">🏠 My Personal Page</a> if you want to find out more.
  
