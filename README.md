@@ -73,6 +73,18 @@ You can visit <a href="https://ozan.pl">🏠 My Personal Page</a> if you want to
       <td><img alt="Issues" src="https://img.shields.io/github/issues/ozntel/file-explorer-note-count?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
+      <td><a href="https://github.com/ozntel/Django-Blog-Application"><b>Obsidian Oz Calendar</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/ozntel/oz-calendar?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/ozntel/oz-calendar?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/ozntel/oz-calendar?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+   <tr>
+      <td><a href="https://github.com/ozntel/Django-Blog-Application"><b>Obsidian Msg Handler</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/ozntel/obsidian-msg-handler?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/ozntel/obsidian-msg-handler?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/ozntel/obsidian-msg-handler?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
       <td><a href="https://github.com/ozntel/Django-Blog-Application"><b>Django Blog Application</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/ozntel/Django-Blog-Application?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/ozntel/Django-Blog-Application?style=flat-square&labelColor=343b41"/></td>
