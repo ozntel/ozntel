@@ -42,17 +42,17 @@ You can visit <a href="https://ozan.pl">🏠 My Personal Page</a> if you want to
     </tr>
   </thead>
   <tbody>
-     <tr>
-      <td><a href="https://github.com/ozntel/oz-image-in-editor-obsidian"><b>Obsidian Image in Editor Plugin</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/ozntel/oz-image-in-editor-obsidian?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/ozntel/oz-image-in-editor-obsidian?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/ozntel/oz-image-in-editor-obsidian?style=flat-square&labelColor=343b41"/></td>
-    </tr>
     <tr>
       <td><a href="https://github.com/ozntel/file-tree-alternative"><b>Obsidian File Tree Alternative Plugin</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/ozntel/file-tree-alternative?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/ozntel/file-tree-alternative?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/ozntel/file-tree-alternative?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/ozntel/oz-image-in-editor-obsidian"><b>Obsidian Image in Editor Plugin</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/ozntel/oz-image-in-editor-obsidian?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/ozntel/oz-image-in-editor-obsidian?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/ozntel/oz-image-in-editor-obsidian?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
       <td><a href="https://github.com/ozntel/obsidian-link-converter"><b>Obsidian Link Converter Plugin</b></a></td>
